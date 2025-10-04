@@ -46,6 +46,16 @@ We do not sell, trade, or otherwise transfer your personal information to third 
 - **Legal Requirements:** When required by law or to protect our rights and safety.
 - **Business Transfers:** In the event of a merger, acquisition, or sale of assets.
 
+## Advertising and Monetization
+
+Our App displays advertisements, including **rewarded ads**. These ads may be provided by third-party ad networks (such as Google AdMob or other partners).
+
+* To deliver relevant ads, ad networks may use your **Advertising ID** and certain non-personal information (such as device type, interactions with ads, and general location).
+* You can reset or limit the use of your Advertising ID through your device settings.
+* Rewarded ads are optional: users may choose to watch an ad in exchange for app rewards or features.
+
+We do not control the content of third-party ads. Please refer to the respective ad network's privacy policy for more information about their data practices.
+
 ## Data Security
 
 We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction. However, no method of transmission over the internet is 100% secure.
