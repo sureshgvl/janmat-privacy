@@ -59,11 +59,11 @@ Depending on your location, you may have the following rights:
 - Restriction or objection to processing.
 - Data portability.
 
-To exercise these rights, contact us at [your contact email].
+To exercise these rights, contact us at suresh.gl2009@gmail.com.
 
 ### Account Deletion
 To request deletion of your account and associated data:
-1. Contact us at [your contact email] with "Account Deletion Request" in the subject.
+1. Contact us at suresh.gl2009@gmail.com with "Account Deletion Request" in the subject.
 2. Include your registered phone number or email.
 3. We will process your request within 30 days.
 4. Upon deletion, all personal data, chat history, and user-generated content will be permanently removed, except for data required for legal compliance which may be retained for up to 7 years.
@@ -79,8 +79,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-- Email: [your support email]
-- Address: [your business address]
+- Email: suresh.gl2009@gmail.com
+- Address: Hadapsar, Pune
 
 By using Janmat, you acknowledge that you have read and understood this Privacy Policy.
 ## Disclaimer
