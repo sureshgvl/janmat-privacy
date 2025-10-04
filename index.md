@@ -83,3 +83,6 @@ If you have any questions about this Privacy Policy, please contact us at:
 - Address: [your business address]
 
 By using Janmat, you acknowledge that you have read and understood this Privacy Policy.
+## Disclaimer
+
+JanMat is independently developed by SG Infinity. It is not affiliated with any government or election body.
